@@ -30,3 +30,4 @@
    <br />
    >After testing the rotations you can gently replace the circuit back in its place and screw the bottom cover too
    
+Reference : https://www.arduino.cc/en/Reference/ServoWrite
