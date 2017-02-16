@@ -1,3 +1,8 @@
+/*
+ * M. Murat Akcayigit
+ * For Legolift Servo Adjustments
+ */
+
 #include <Servo.h> 
  
 Servo servo;  // create servo object to control a servo 
